@@ -1,8 +1,4 @@
-#
-#
-#
-#
-# Name: Fabio Amendola
+
 
 class Board:
     """ a datatype representing a C4 board
