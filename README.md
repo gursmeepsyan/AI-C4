@@ -1,7 +1,7 @@
 # Connect 4 Using AI (Still under work)
 ### Instructions and Inputs
 #### Launch Game
-<p><code> python -i connectAI.py </code></p>
+<p><code> python -i AI-C4.py </code></p>
 <p><code> board = Board() </code></p>
 <p><code> player = Player(ox,tbt,ply) </code></p>
 
